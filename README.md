@@ -7,3 +7,4 @@
 - [alx-pre_course](https://github.com/RaheemAmer/alx-pre_course)
 - [ALX Group Project (PrintF)](https://github.com/RaheemAmer/printf)
 - [ALX Group Project (SimpleShell)](https://github.com/RaheemAmer/simple_shell)
+- [alx-higher_level_programming](https://github.com/RaheemAmer/alx-higher_level_programming)
